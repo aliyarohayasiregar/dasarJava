@@ -7,6 +7,7 @@ class Main {
     // method non-static
     void cetakJumlah(int bilangan1, int bilangan2) {
         System.out.println(bilangan1 + bilangan2);
+
     }
     // method static
     static void cetakJumlahStatic(int bilangan1, int bilangan2) {
